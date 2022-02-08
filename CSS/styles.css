@@ -1,0 +1,158 @@
+body {
+
+  margin: 0;
+  text-align: center;
+  font-family: Merriweather, serif;
+
+
+}
+
+hr {
+  border-color: #D885A3;
+  border-style: dotted none none;
+  border-width: thick;
+  width: 5%;
+}
+
+h1 {
+  font-size: 350%;
+  font-family: Quintessential;
+  margin: 50px auto 2 auto;
+  color: #316B83;
+}
+
+h2 {
+  font-family: Quintessential;
+  font-size: 1.5rem;
+  color: #316B83;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: Quintessential;
+  color: #11999E;
+}
+
+p {
+width: auto;
+line-height: 1.5;
+}
+
+a {
+  font-family: Quintessential;
+  font-size: 17px;
+  margin: 10px 10px;
+  text-decoration:none;
+   color:#11999E;
+}
+
+a:hover {
+color: #C37B89;
+}
+
+.top-container {
+  background-color: #D3DEDC;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+
+}
+
+.bottom-container {
+  background-color: #D3DEDC;
+  padding: 50px 0 20px;
+
+}
+
+.Hot-Stone {
+  border-radius: 200px;
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Lazy {
+  border-radius: 500px;
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+
+}
+
+.Contact-Me {
+  margin: 50px auto
+}
+
+
+.btn {
+  background: #cf83ab;
+  background-image: -webkit-linear-gradient(top, #cf83ab, #e8d0e2);
+  background-image: -moz-linear-gradient(top, #cf83ab, #e8d0e2);
+  background-image: -ms-linear-gradient(top, #cf83ab, #e8d0e2);
+  background-image: -o-linear-gradient(top, #cf83ab, #e8d0e2);
+  background-image: linear-gradient(to bottom, #cf83ab, #e8d0e2);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Arial;
+  color: #663c66;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ec3cfc;
+  background-image: -webkit-linear-gradient(top, #ec3cfc, #e06e6e);
+  background-image: -moz-linear-gradient(top, #ec3cfc, #e06e6e);
+  background-image: -ms-linear-gradient(top, #ec3cfc, #e06e6e);
+  background-image: -o-linear-gradient(top, #ec3cfc, #e06e6e);
+  background-image: linear-gradient(to bottom, #ec3cfc, #e06e6e);
+  text-decoration: none;
+}
+
+
+.Web {
+  color: #FF87CA;
+  text-decoration: underline;
+}
+
+
+.Intro {
+  width:10%;
+  margin:auto;
+}
+
+.Contact-Message {
+  width:40%;
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: #FF87CA;
+  font-family: Quintessential;
+  font-size: 25px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 50px;
+  bottom: 250px;
+}
